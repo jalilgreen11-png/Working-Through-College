@@ -8,7 +8,7 @@ The site is a guide for Cal State LA students who work while in school. It intro
 
 ## Project Links
 
-- **Live website:** [https://jalilgreen11-png.github.io/Working-Through-College/](Your site is live at https://jalilgreen11-png.github.io/Working-Through-College/)
+-- **Live website:** [https://jalilgreen11-png.github.io/Working-Through-College/](https://jalilgreen11-png.github.io/Working-Through-College/)
 - **Site narrative (Google Docs):** [View narrative](https://docs.google.com/document/d/1ZsXms2Xw7aF4BbiRghaYYwt-HQqtUU4KaovRztyDAIk/edit?usp=sharing)
 - **Figma prototype:** [View Figma file](https://www.figma.com/design/ryAjipKf2rO0UoHficuXBy/Project-cis-3610?node-id=16-59&t=lXFSgr0cfdh3nKXI-1)
 - **Lighthouse performance report:** [View PDF](./lighthouse-report.pdf)
